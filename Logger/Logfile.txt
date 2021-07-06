@@ -1,0 +1,8 @@
+17:21:49: LOGGER started work
+17:21:49: Warning: Show Warning
+17:21:50: Vremya summirovaniya do LONG_MAX
+1096 ms passed.
+
+17:21:51: Vremya summirovaniya do INT32_MAX
+815 ms passed.
+
